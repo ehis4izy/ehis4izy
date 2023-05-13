@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi Everyone,
+
+I am a results-driven business intelligence professional with expertise in business analysis, data analytics, data modeling, data warehousing, data integration, data visualization, and reporting. Skilled in turning data into automated insights for informed decision-making. Strong knowledge of Qlik Sense, NPrinting, MS SQL Server, MS Business Intelligence Stack (SQL, SSIS, SSRS, SSAS), Power BI, PowerPivot, DAX, and working knowledge in Tableau.
 
 <!--
 **ehis4izy/ehis4izy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
